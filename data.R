@@ -13,3 +13,4 @@ coursedata = filter(coursedata,
                     coursedata$Date == as.Date("2007-02-01") |
                       coursedata$Date == as.Date("2007-02-02"))
 
+
